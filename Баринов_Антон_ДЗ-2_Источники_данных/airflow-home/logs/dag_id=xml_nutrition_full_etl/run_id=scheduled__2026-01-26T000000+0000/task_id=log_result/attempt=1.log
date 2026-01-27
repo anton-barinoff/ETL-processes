@@ -1,0 +1,26 @@
+{"timestamp":"2026-01-26T10:24:41.043881Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-01-26T10:24:41.045477Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-01-26T10:24:41.102503Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.103384Z","level":"info","event":"XML NUTRITION ETL PROCESS COMPLETED SUCCESSFULLY","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.104559Z","level":"info","event":"Result: Successfully loaded 10 records","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.105020Z","level":"info","event":"Execution time: 2026-01-26 00:00:00+00:00","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.106116Z","level":"info","event":"============================================================","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.116416Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.116863Z","level":"info","event":"TOP 3 HIGHEST CALORIE FOODS:","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.117187Z","level":"info","event":"  - Chicken Pot Pie: 410 calories","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.117482Z","level":"info","event":"  - Beef Frankfurter, Quarter Pound : 370 calories","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.117767Z","level":"info","event":"  - Bagels, New York Style : 300 calories","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.118021Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.118274Z","level":"info","event":"MANUFACTURER DISTRIBUTION:","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.118510Z","level":"info","event":"  - Sunnydale: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.118846Z","level":"info","event":"  - Thompson: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.119142Z","level":"info","event":"  - Gardenproducts: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.119486Z","level":"info","event":"  - Ferreira: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.119733Z","level":"info","event":"  - Lakeson: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.119989Z","level":"info","event":"  - Lees: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.120231Z","level":"info","event":"  - Lyndon's: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.120502Z","level":"info","event":"  - Goodpath: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.120730Z","level":"info","event":"  - Fresh Quick: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.120991Z","level":"info","event":"  - Armitage: 1 products","logger":"task.stdout"}
+{"timestamp":"2026-01-26T10:24:41.116517Z","level":"info","event":"Done. Returned value was: Successfully loaded 10 records","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
+{"timestamp":"2026-01-26T10:24:41.116785Z","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019bf9d0-e07c-79b0-9047-6901b1751483'), task_id='log_result', dag_id='xml_nutrition_full_etl', run_id='scheduled__2026-01-26T00:00:00+00:00', try_number=1, dag_version_id=UUID('019bf9d0-8e5e-774e-95f8-f18638cbeba1'), map_index=-1, hostname='b178a2c24a52', context_carrier={}, task=<Task(PythonOperator): log_result>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=1, start_date=datetime.datetime(2026, 1, 26, 10, 24, 40, 994202, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task","filename":"task_runner.py","lineno":1450}

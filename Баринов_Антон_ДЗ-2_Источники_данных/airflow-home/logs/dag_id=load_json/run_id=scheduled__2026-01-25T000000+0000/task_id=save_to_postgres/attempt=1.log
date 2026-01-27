@@ -1,0 +1,23 @@
+{"timestamp":"2026-01-25T11:14:01.202302Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-01-25T11:14:01.209039Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_processor.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-01-25T11:14:01.395536Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/json_processor.py","lineno":3,"logger":"py.warnings"}
+{"timestamp":"2026-01-25T11:14:01.454746Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:01.455209Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:01.455540Z","level":"info","event":"Current task name:save_to_postgres","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:01.455805Z","level":"info","event":"Dag name:load_json","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:02.073066Z","level":"info","event":"ERROR: 'favFoods'","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:02.099630Z","level":"error","event":"Traceback (most recent call last):","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.106766Z","level":"error","event":"  File \"/opt/airflow/dags/json_processor.py\", line 16, in load_json_to_postgres","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.107209Z","level":"error","event":"    df['favFoods'] = df['favFoods'].apply(","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.107588Z","level":"error","event":"                     ~~^^^^^^^^^^^^","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.108018Z","level":"error","event":"  File \"/home/airflow/.local/lib/python3.12/site-packages/pandas/core/frame.py\", line 3893, in __getitem__","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.108344Z","level":"error","event":"    indexer = self.columns.get_loc(key)","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.108875Z","level":"error","event":"              ^^^^^^^^^^^^^^^^^^^^^^^^^","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.111033Z","level":"error","event":"  File \"/home/airflow/.local/lib/python3.12/site-packages/pandas/core/indexes/range.py\", line 418, in get_loc","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.112064Z","level":"error","event":"    raise KeyError(key)","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.113515Z","level":"error","event":"KeyError: 'favFoods'","logger":"task.stderr"}
+{"timestamp":"2026-01-25T11:14:02.110308Z","level":"info","event":"Done. Returned value was: False","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
+{"timestamp":"2026-01-25T11:14:02.111416Z","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019bf4dc-4e41-70ba-8b22-703b84da3ca3'), task_id='save_to_postgres', dag_id='load_json', run_id='scheduled__2026-01-25T00:00:00+00:00', try_number=1, dag_version_id=UUID('019bf4d9-ef27-7bfe-b9b2-1846e2c42ff1'), map_index=-1, hostname='89ed637f96cb', context_carrier={}, task=<Task(PythonOperator): save_to_postgres>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2026, 1, 25, 11, 13, 59, 114950, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task","filename":"task_runner.py","lineno":1450}
+{"timestamp":"2026-01-25T11:14:02.185744Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:02.186319Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-01-25T11:14:02.187005Z","level":"info","event":"Task operator:<Task(PythonOperator): save_to_postgres>","logger":"task.stdout"}

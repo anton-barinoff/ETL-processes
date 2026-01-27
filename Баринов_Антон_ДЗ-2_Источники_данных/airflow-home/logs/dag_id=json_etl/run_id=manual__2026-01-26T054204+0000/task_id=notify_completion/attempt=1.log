@@ -1,0 +1,9 @@
+{"timestamp":"2026-01-26T05:44:29.115129Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-01-26T05:44:29.119436Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_processor.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-01-26T05:44:29.783100Z","level":"info","event":"DAG выполнен: json_etl","logger":"task.stdout"}
+{"timestamp":"2026-01-26T05:44:29.783958Z","level":"info","event":"Время выполнения: 2026-01-26 05:42:04+00:00","logger":"task.stdout"}
+{"timestamp":"2026-01-26T05:44:29.784493Z","level":"info","event":"Результат: Loaded 3 rows","logger":"task.stdout"}
+{"timestamp":"2026-01-26T05:44:29.784825Z","level":"info","event":"✅ ETL процесс успешно завершен!","logger":"task.stdout"}
+{"timestamp":"2026-01-26T05:44:29.785132Z","level":"info","event":"📊 Loaded 3 rows","logger":"task.stdout"}
+{"timestamp":"2026-01-26T05:44:29.785549Z","level":"info","event":"🕐 Время выполнения: 2026-01-26 05:42:04+00:00","logger":"task.stdout"}
+{"timestamp":"2026-01-26T05:44:29.784826Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
