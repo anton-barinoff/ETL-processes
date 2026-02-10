@@ -1,0 +1,9 @@
+{"timestamp":"2026-02-10T19:03:38.056144Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-02-10T19:03:38.070278Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T19:03:38.415740Z","level":"error","event":"/home/airflow/.local/lib/python3.12/site-packages/pyspark/bin/load-spark-env.sh: line 68: ps: command not found","logger":"task.stderr"}
+{"timestamp":"2026-02-10T19:03:41.563302Z","level":"error","event":"Setting default log level to \"WARN\".","logger":"task.stderr"}
+{"timestamp":"2026-02-10T19:03:41.563763Z","level":"error","event":"To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).","logger":"task.stderr"}
+{"timestamp":"2026-02-10T19:03:42.321588Z","level":"error","event":"26/02/10 19:03:42 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable","logger":"task.stderr"}
+{"timestamp":"2026-02-10T19:03:58.693375Z","level":"info","event":"SAVED 19000 rows to Parquet","logger":"task.stdout"}
+{"timestamp":"2026-02-10T19:03:59.061806Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
+{"timestamp":"2026-02-10T19:03:59.570092Z","level":"error","event":"\r[Stage 1:>                                                          (0 + 1) / 1]\r\r                                                                                \r\r[Stage 2:>                                                          (0 + 1) / 1]","logger":"task.stderr"}
