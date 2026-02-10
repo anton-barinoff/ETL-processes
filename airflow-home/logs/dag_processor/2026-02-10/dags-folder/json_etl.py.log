@@ -336,3 +336,10 @@
 {"timestamp":"2026-02-10T20:14:33.636524Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-02-10T20:15:06.851182Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-02-10T20:15:39.402557Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:16:11.211131Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:16:43.303501Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:17:14.653760Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:17:46.392506Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:18:18.504414Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:18:50.621158Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-10T20:19:23.532765Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
