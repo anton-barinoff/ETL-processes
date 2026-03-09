@@ -175,3 +175,9 @@
 {"timestamp":"2026-03-09T19:54:54.502121Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T19:55:26.441755Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T19:55:58.386948Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:56:29.791490Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:57:02.602527Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:57:34.446201Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:58:06.036358Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:58:37.413836Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:59:08.762513Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
