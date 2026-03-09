@@ -449,3 +449,10 @@
 {"timestamp":"2026-03-09T19:57:56.078991Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T19:58:26.927066Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T19:58:57.765109Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:59:28.718351Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:59:59.828462Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:00:30.483931Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:01:01.465173Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:01:32.003224Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:02:02.884072Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:02:33.393355Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_user_activity .py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

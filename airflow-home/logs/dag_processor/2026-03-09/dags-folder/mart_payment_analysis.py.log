@@ -450,3 +450,10 @@
 {"timestamp":"2026-03-09T19:58:11.668721Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T19:58:42.004413Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T19:59:12.353206Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T19:59:42.652250Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:00:13.126641Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:00:43.919367Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:01:14.385583Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:01:45.132220Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:02:15.800902Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:02:46.278261Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

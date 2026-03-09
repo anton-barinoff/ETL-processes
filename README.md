@@ -9,7 +9,8 @@
 	- logs/
 	- plugins/
 	- .env
-	- docker-compose.yaml 
+	- docker-compose.yaml
+	- generate_mongo_data.py (скрипт для генерации данных для Итогового задания по Модулю 3)
 # Баринов_Антон_ДЗ-2_Источники_данных
 	- dags/ (копии DAGs для выполнения заданий)
 	- screenshots/ (папка со скриншотами DAGs из Airflow и таблиц БД)
