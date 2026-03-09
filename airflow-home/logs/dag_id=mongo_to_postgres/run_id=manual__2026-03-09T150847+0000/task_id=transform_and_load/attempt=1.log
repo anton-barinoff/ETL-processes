@@ -1,0 +1,543 @@
+{"timestamp":"2026-03-09T15:08:51.236852Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-09T15:08:51.238737Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mongo_to_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T15:08:52.167703Z","level":"info","event":"Error inserting into movie_views: column \"end_time\" of relation \"movie_views\" does not exist","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.175171Z","level":"info","event":"LINE 2: ...INSERT INTO movie_views (genre, user_id, view_id, end_time, ...","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.175743Z","level":"info","event":"                                                             ^","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.177083Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.177916Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.182132Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.183155Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.185965Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.186661Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.187326Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.188388Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.190163Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.198386Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.202534Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.203749Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.206804Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.211574Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.212100Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.219234Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.222114Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.224607Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.230695Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.231469Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.234426Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.235452Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.241534Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.241921Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.242276Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.242621Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.243250Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.243923Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.246950Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.249790Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.250851Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.251955Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.258117Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.265014Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.267072Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.268641Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.269192Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.270893Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.271367Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.271768Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.272472Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.273823Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.274569Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.276932Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.277756Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.278213Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.278550Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.280242Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.283114Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.291249Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.291743Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.292141Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.292889Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.293265Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.295034Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.298731Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.301016Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.307076Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.307615Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.308270Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.310046Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.311407Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.313024Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.315148Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.317023Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.317749Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.323268Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.324678Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.327495Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.328050Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.329567Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.330029Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.331085Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.335115Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.335598Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.335997Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.336314Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.336589Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.336859Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.337131Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.337392Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.337652Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.337910Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.338159Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.338407Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.338656Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.343102Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.344567Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.348808Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.350592Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.351222Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.353489Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.353984Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.354516Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.355094Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.360834Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.367156Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.367716Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.368187Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.368526Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.368797Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.369106Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.369373Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.370968Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.371492Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.372946Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.373269Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.373582Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.373853Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.387153Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.387576Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.387900Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.388171Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.388450Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.388706Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.389003Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.389267Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.389536Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.389782Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.390007Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.390278Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.390501Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.390751Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.393389Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.394055Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.396585Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.403467Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.403905Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.404224Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.404671Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.406936Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.407382Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.407735Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.408941Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.410296Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.410731Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.412276Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.412675Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.412970Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.414618Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.419142Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.420413Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.423125Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.427180Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.428768Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.432094Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.432559Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.433424Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.439132Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.441210Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.441624Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.441912Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.442213Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.442482Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.442775Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.443258Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.443711Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.443986Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.444248Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.444511Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.444759Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.445040Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.447781Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.457900Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.459724Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.460144Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.460421Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.460763Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.461008Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.461309Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.461552Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.461876Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.462328Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.462599Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.462906Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.463145Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.463369Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.463838Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.464139Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.464368Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.464636Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.464891Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.465180Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.465422Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.465654Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.466119Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.467446Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.467933Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.468860Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.470384Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.479067Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.479518Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.480261Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.483125Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.483765Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.484449Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.484749Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.485053Z","level":"info","event":"Error inserting into movie_views: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.485315Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.485602Z","level":"info","event":"Loaded 100 rows into movie_views","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.488386Z","level":"info","event":"Error inserting into user_payments: column \"status\" of relation \"user_payments\" does not exist","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.507023Z","level":"info","event":"LINE 2: ...               INSERT INTO user_payments (amount, status, us...","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.507603Z","level":"info","event":"                                                             ^","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.508191Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.509095Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.512697Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.513524Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.514364Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.514736Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.515048Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.515367Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.515671Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.516130Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.516681Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.517097Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.517442Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.517850Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.518199Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.518514Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.519184Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.519626Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.521201Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.521672Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.522048Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.522407Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.522789Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.523129Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.523464Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.523823Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.524118Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.524463Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.524812Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.525192Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.526250Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.526733Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.527584Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.536147Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.537704Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.538187Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.539097Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.539517Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.539837Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.540159Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.540691Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.541695Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.542125Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.542687Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.543005Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.543310Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.543554Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.544365Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.545192Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.545627Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.547797Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.548431Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.549437Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.550047Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.551139Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.551569Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.551998Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.559136Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.560953Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.579412Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.579850Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.580253Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.582142Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.582713Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.583182Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.583564Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.583950Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.588402Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.589737Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.591869Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.596638Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.597661Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.598078Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.598458Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.598831Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.604806Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.609805Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.616966Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.617549Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.620634Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.622078Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.625286Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.627756Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.630225Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.640055Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.642238Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.642974Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.643756Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.644476Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.644863Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.645478Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.647527Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.648921Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.649373Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.653112Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.659337Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.662378Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.662824Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.663826Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.664387Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.665019Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.675164Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.675833Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.676203Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.676926Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.677321Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.677670Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.677981Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.678387Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.678988Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.679846Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.681841Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.692478Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.695664Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.696595Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.697610Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.698386Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.698756Z","level":"info","event":"Error inserting into user_payments: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.699112Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.699987Z","level":"info","event":"Loaded 60 rows into user_payments","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.701153Z","level":"info","event":"Error inserting into content_ratings: column \"reports_count\" of relation \"content_ratings\" does not exist","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.706350Z","level":"info","event":"LINE 2: ...ated_at, movie_title, review_text, helpful_count, reports_co...","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.712462Z","level":"info","event":"                                                             ^","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.719388Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.720467Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.721885Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.723184Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.733430Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.743530Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.744026Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.744419Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.745097Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.745567Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.745956Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.746287Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.746653Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.751659Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.752145Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.753971Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.754711Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.755064Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.755451Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.756407Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.756795Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.757216Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.757542Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.757863Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.758222Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.758667Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.759071Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.759455Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.759817Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.760123Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.760559Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.760915Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.761245Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.769131Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.770169Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.775193Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.776638Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.778120Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.781311Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.782418Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.784155Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.793020Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.793431Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.793768Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.794060Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.794339Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.794616Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.794889Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.795205Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.795599Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.795915Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.796252Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.796597Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.796930Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.797249Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.797559Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.797877Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.798237Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.798616Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.799020Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.799407Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.799753Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.800087Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.800427Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.800726Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.801134Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.801465Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.801835Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.802142Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.802451Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.802750Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.803093Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.803380Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.803680Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.803988Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.804276Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.804557Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.804853Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.805140Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.805432Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.805715Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.806005Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.806286Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.806731Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.807077Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.807373Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.807658Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.807953Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.808281Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.808920Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.809255Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.809558Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.809851Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.810141Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.810447Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.810738Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.811071Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.811437Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.811730Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.812019Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.812304Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.812604Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.812890Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.813170Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.813453Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.813813Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.814104Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.814391Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.814978Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.815334Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.815802Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.818182Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.818660Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.818983Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.819357Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.819657Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.819951Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.820262Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.820555Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.820849Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.821137Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.821449Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.821739Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.822026Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.822312Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.822614Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.822910Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.823209Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.823551Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.823841Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.824131Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.824417Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.824800Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.825114Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.825404Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.825702Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.825994Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.826296Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.826596Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.826934Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.827264Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.827572Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.827875Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.828195Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.828844Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.829180Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.829493Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.829786Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.830079Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.830367Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.830659Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.830949Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.831291Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.788299Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
+{"timestamp":"2026-03-09T15:08:52.878658Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.879647Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.882836Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.883293Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.883589Z","level":"info","event":"Error inserting into content_ratings: current transaction is aborted, commands ignored until end of transaction block","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.883886Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.884160Z","level":"info","event":"Loaded 80 rows into content_ratings","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.884454Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.884694Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.884910Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.885176Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.885408Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.885637Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.885861Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.886074Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.886358Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.886584Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.886895Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.887159Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.887410Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.887650Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.888050Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.891058Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.891445Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.891704Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.891943Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.892168Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.892389Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.892606Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.892832Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.893058Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.893283Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.893504Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.893830Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.894094Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.894364Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.894638Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.894935Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.895389Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.903157Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.903664Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.903968Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.904216Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.904467Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.904745Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.905014Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.905276Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.905531Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.905858Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.906434Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.906754Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.907020Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.907281Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.907544Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.908982Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.909470Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.909876Z","level":"info","event":"Error inserting into search_queries: can't adapt type 'dict'","logger":"task.stdout"}
+{"timestamp":"2026-03-09T15:08:52.910202Z","level":"info","event":"Loaded 50 rows into search_queries","logger":"task.stdout"}

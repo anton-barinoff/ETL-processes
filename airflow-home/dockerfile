@@ -4,4 +4,9 @@ USER root
 RUN apt-get update && apt-get install -y procps openjdk-17-jre-headless
 USER airflow
 
-RUN pip install pyspark==3.5.0 psycopg2-binary
+RUN pip install pyspark==3.5.0 \ 
+    psycopg2-binary \
+    apache-airflow-providers-mongo \
+    apache-airflow-providers-postgres \
+    pymongo \
+    pandas

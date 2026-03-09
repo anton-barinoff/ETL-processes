@@ -1,0 +1,3 @@
+{"timestamp":"2026-03-09T18:38:50.444714Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-09T18:38:50.449850Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T18:38:51.494861Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}

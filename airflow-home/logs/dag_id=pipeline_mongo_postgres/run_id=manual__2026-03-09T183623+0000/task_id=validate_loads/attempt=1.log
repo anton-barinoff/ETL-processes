@@ -1,0 +1,7 @@
+{"timestamp":"2026-03-09T18:36:31.372091Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-09T18:36:31.374579Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/pipeline_mongo_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T18:36:32.024698Z","level":"info","event":"movie_views: 100 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:36:32.025505Z","level":"info","event":"user_payments: 60 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:36:32.026818Z","level":"info","event":"content_ratings: 80 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:36:32.030364Z","level":"info","event":"search_queries: 50 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:36:32.029323Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}

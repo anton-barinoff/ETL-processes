@@ -1,0 +1,4 @@
+{"timestamp":"2026-03-09T18:23:33.840734Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-09T18:23:33.855417Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mongo_to_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T18:23:35.870669Z","level":"error","event":"Dag not found during start up","dag_id":"pipeline_mongo_postgres","bundle":"BundleInfo(name='dags-folder', version=None)","path":"mongo_to_postgres.py","logger":"task","filename":"task_runner.py","lineno":638}
+{"timestamp":"2026-03-09T18:23:35.927921Z","level":"warning","event":"Process exited abnormally","exit_code":1,"logger":"task"}

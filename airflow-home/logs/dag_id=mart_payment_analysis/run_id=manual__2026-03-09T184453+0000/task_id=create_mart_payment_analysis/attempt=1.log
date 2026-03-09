@@ -1,0 +1,12 @@
+{"timestamp":"2026-03-09T18:44:55.766552Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-09T18:44:55.770450Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mart_payment_analysis.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T18:44:55.860962Z","level":"info","event":"Total rows: 51","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.861659Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.862027Z","level":"info","event":"Unique users: 34","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.862331Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.862726Z","level":"info","event":"Subscription plans distribution:","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.863021Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.863361Z","level":"info","event":"  annual: 16 users","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.863672Z","level":"info","event":"  premium_monthly: 15 users","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.864079Z","level":"info","event":"  basic_monthly: 20 users","logger":"task.stdout"}
+{"timestamp":"2026-03-09T18:44:55.861101Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
