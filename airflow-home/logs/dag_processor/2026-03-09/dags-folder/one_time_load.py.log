@@ -1251,3 +1251,10 @@
 {"timestamp":"2026-03-09T20:01:53.226819Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T20:02:25.883775Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T20:02:57.903885Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:03:29.870656Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:04:01.638740Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:04:33.663415Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:05:04.666923Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:05:41.158358Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:06:13.674264Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:06:45.106963Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/one_time_load.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

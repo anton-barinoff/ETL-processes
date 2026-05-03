@@ -1261,3 +1261,11 @@
 {"timestamp":"2026-03-09T20:01:32.057992Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T20:02:02.955876Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T20:02:33.450593Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:03:03.912810Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:03:34.942161Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:04:05.804955Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:04:36.633376Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:05:07.771080Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:05:44.146829Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:06:16.083760Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:06:46.570399Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/xml_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

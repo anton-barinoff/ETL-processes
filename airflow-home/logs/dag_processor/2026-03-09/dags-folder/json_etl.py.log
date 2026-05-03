@@ -1232,3 +1232,10 @@
 {"timestamp":"2026-03-09T20:01:46.082971Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T20:02:20.299229Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-03-09T20:02:51.793478Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:03:23.297025Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:03:54.602073Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:04:26.490282Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:04:58.211251Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:05:30.524379Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:06:04.761232Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-09T20:06:37.568079Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/json_etl.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

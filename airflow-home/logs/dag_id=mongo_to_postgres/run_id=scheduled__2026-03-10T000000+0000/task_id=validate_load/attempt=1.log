@@ -1,0 +1,11 @@
+{"timestamp":"2026-03-26T21:26:40.733286Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-26T21:26:40.737173Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mongo_to_postgres.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-26T21:26:50.192004Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.195682Z","level":"info","event":"==================================================","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.196040Z","level":"info","event":"LOAD SUMMARY","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.196317Z","level":"info","event":"==================================================","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.196673Z","level":"info","event":"movie_views: 100 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.197641Z","level":"info","event":"user_payments: 60 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.211372Z","level":"info","event":"content_ratings: 80 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.216444Z","level":"info","event":"search_queries: 50 rows","logger":"task.stdout"}
+{"timestamp":"2026-03-26T21:26:50.180602Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":216}
